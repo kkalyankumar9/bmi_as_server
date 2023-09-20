@@ -1,6 +1,9 @@
 {
   "userdata":[
-    {"id":1}
+    {"id":1,
+  "name":"kalyan",
+"email":"kalyan@gmail.com",
+"password":"123456"}
   ],
   "ibmdata":[],
   "ibmhistory":[]
